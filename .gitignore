@@ -1,0 +1,14 @@
+process_info
+hello
+output
+fork_basic
+fork_memory
+wait_basic
+exec_basic
+fork_exec
+launcher
+states
+zombie
+process_runner
+*.o
+*.out
